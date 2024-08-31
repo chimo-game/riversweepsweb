@@ -372,7 +372,7 @@ h3 {
     linear-gradient(181deg, #0dff00 3.31%, #00630d 91.1%),
     linear-gradient(181deg, #0885fa 13.28%, #0252f1 91.1%);
   background-blend-mode: overlay, normal, normal, normal;
-  box-shadow: 0 -2px 0 0 #c101c9 inset;
+  box-shadow: 0 -2px 0 0 #7d0181 inset;
   transition: 0.2s ease-in-out;
 }
 @media only screen and (min-width: 768px) {
